@@ -1,0 +1,12 @@
+.page-wrapper {
+     max-width: 1200px;
+     margin:0 auto;
+     box-shadow: 0px 13px 20px #cecece;
+     background:#fff;
+}
+.page-wrapper .navbar {
+    max-width: 1200px;
+     margin:0 auto;
+}
+ 
+    
