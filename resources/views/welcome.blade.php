@@ -367,7 +367,7 @@
                            <!-- Bottom Info -->
                            <ul style="color:#AEF09D" class="list-unstyled contact-info">
                               <li>(122) 2345-53450</li>
-                              <li>Email: <a href="mailto:your@email.com">site@email.com</a></li>
+                              <li>Email: <a href="mailto:your@email.com">info@eatooo.com</a></li>
                               <li>
                                  
                               <i 
@@ -398,11 +398,6 @@
                   </p>
                </div>
 
-
-
-          <!-- <section id="testimonials" class=" container-fluid bg-lightcolor1"  data-0="background-size: 400px;" data-bottom="background-size:600px;"> -->
-
-         
          </section>
          <!--/section ends  -->
          
