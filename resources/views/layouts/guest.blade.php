@@ -53,7 +53,7 @@
       <div class="page-wrapper">
 	       <!-- Navbar -->
 
-         <x-headercomponent />
+         <x-header-component />
          <!-- /navbar ends -->     
 
          <!-- Preloader  -->
@@ -67,7 +67,7 @@
          <!--/Preloader ends -->
 		 {{$body}}
          <!-- Footer starts -->
-        <x-footercomponent />
+        <x-footer-component />
 
          <!-- /footer ends -->
       </div>
