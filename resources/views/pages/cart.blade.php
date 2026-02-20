@@ -152,7 +152,7 @@
 
                 message += "\nTotal: ₦" + total.toFixed(2);
 
-                let phoneNumber = "2348142881380"; // your number
+                let phoneNumber = "2347072859494"; // your number
                 let whatsappURL = "https://wa.me/" + phoneNumber + "?text=" + encodeURIComponent(message);
 
                 window.location.href = whatsappURL;

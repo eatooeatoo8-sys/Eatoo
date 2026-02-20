@@ -9,7 +9,7 @@
       <meta name="description" content="">
       <meta name="author" content="">
       <!-- Page title -->
-      <title>Eatoo</title>
+      <title>Eatooo</title>
     
       <link href="/onboard/css/bootstrap.css" rel="stylesheet" type="text/css">
       <!-- Icon fonts -->
@@ -25,9 +25,9 @@
       <!-- Color Style CSS -->
       <link href="/onboard/styles/main.css" rel="stylesheet">
       <!-- Favicons-->
-      <link rel="apple-touch-icon" sizes="72x72" href="/onboard/img/remove.png">
-      <link rel="apple-touch-icon" sizes="114x114" href="/onboard/img/remove.png">
-      <link rel="shortcut icon" href="/onboard/img/remove.png" type="image/x-icon">
+      <link rel="apple-touch-icon" sizes="72x72" href="/onboard/img/Eatologo.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="/onboard/img/Eatologo.png">
+      <link rel="shortcut icon" href="/onboard/img/Eatologo.png" type="image/x-icon">
 	  	<!-- Switcher Only -->
 	<link rel="stylesheet" id="switcher-css" type="text/css" href="/onboard/switcher/css/switcher.css" media="all" />
 	<!--Alternate CSS -->
