@@ -13,7 +13,7 @@
                      <img src="/onboard/img/remove.png" class="img-responsive center-block" alt=""/>
                   </div>
                   <!-- /brand -->
-                  <p>Street Name 112, London</p>
+                  <p>No. 1 Ijaiye Road Ogba, Global Plaza, Opposite Mobile Filling Station.</p>
                </div>
                <!-- /col-lg-4--> 
                <div class="col-lg-4 res-margin">
@@ -49,7 +49,7 @@
                <!--/col-lg-4  -->
                <!-- Credits-->
                <div class="credits col-md-12 text-center">
-                  Copyright © 2026 - Designed by <a href="#">eatoo.com</a>
+                  Copyright © 2026 - Designed by <a href="https://www.eatoo.com">eatoo.com</a>
                   <!-- Go To Top Link -->
                   <div class="page-scroll">
                      <a href="#page-top" class="back-to-top"><i class="fas fa-angle-double-up"></i></a>

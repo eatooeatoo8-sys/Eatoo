@@ -97,13 +97,13 @@ i,
 .our-team3:hover .pic,
 .our-team4 .team-content,
 .bg-primary{
-	background-color: #064f8a;
+	background-color: #AEF09D;
 }
 
 .our-team1 .pic img,
 blockquote,
 .our-team4 .pic{
-	border-color: #064f8a;
+	border-color: #391773;
 }
 
 .text-color3,
@@ -116,7 +116,7 @@ h3,
 .navbar-toggle:hover i,
 .slick-prev:before,
 .slick-next:before {
-	color: #064f8a;
+	color: #391773;
 }
 
 

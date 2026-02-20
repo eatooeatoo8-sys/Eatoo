@@ -15,7 +15,7 @@
                <div class="collapse navbar-collapse" id="navbar-brand">
                   <ul  class="nav navbar-nav page-scroll navbar-right" >
                      <li><a style="color: #AEF090; text-transform:uppercase;" href="{{ route('home') }}">Home</a></li>
-                     <li><a style="color: #AEF090; text-transform:uppercase;" href="about.html">About </a></li>
+                     <li><a style="color: #AEF090; text-transform:uppercase;" href="{{ route('about.view') }}">About </a></li>
                      <li>
                         <a style="color: #AEF090; text-transform:uppercase;"  href="{{ route('menu.view') }}">Menu<b></b></a>
                         
@@ -116,38 +116,38 @@
             <!-- /container -->
          </nav>
 
-         <script>
+<script>
 
-            function updateCartCount() {
+   function updateCartCount() {
 
-               let count = 0;
+      let count = 0;
 
-               for (let i = 0; i < localStorage.length; i++) {
+      for (let i = 0; i < localStorage.length; i++) {
 
-                  let key = localStorage.key(i);
-                  let value = localStorage.getItem(key);
+         let key = localStorage.key(i);
+         let value = localStorage.getItem(key);
 
-                  try {
-                        let item = JSON.parse(value);
+         try {
+               let item = JSON.parse(value);
 
-                        if (item && item.name && item.price) {
-                           count++;
-                        }
-
-                  } catch (e) {
-                        continue;
-                  }
+               if (item && item.name && item.price) {
+                  count++;
                }
 
-               const counter = document.getElementById("cart-count");
+         } catch (e) {
+               continue;
+         }
+      }
 
-               if (counter) {
-                  counter.innerText = count;
-               }
-            }
+      const counter = document.getElementById("cart-count");
 
-            document.addEventListener("DOMContentLoaded", function() {
-               updateCartCount();
-            });
+      if (counter) {
+         counter.innerText = count;
+      }
+   }
 
-         </script>
+   document.addEventListener("DOMContentLoaded", function() {
+      updateCartCount();
+   });
+
+</script>

@@ -366,7 +366,7 @@
                            <h5 style="color:#AEF09D">Contact us today</h5>
                            <!-- Bottom Info -->
                            <ul style="color:#AEF09D" class="list-unstyled contact-info">
-                              <li>(122) 2345-53450</li>
+                              <li>081 442 065 01</li>
                               <li>Email: <a href="mailto:your@email.com">info@eatooo.com</a></li>
                               <li>
                                  
@@ -379,9 +379,9 @@
                                     vertical-align:middle;
                                  "
                               ></i>
-                              Lagos, Nigeria <br>
+                              Lagos, Nigeria <br> 
                               <span style="font-weight:400; opacity:0.9;">
-                                    Street Food, Good Food Fast.
+                                    No. 1 Ijaiye Road Ogba, Global Plaza, Opposite Mobile Filling Station.
                               </span></li>
                            </ul>
                            <!--Social icons -->
