@@ -21,7 +21,7 @@
                         
                      </li>
                      <li><a style="color: #AEF090; text-transform:uppercase;" href="#">Catering</a></li>
-                     <li><a style="color: #AEF090; text-transform:uppercase;" href="#">Location</a></li>
+                     <li><a style="color: #AEF090; text-transform:uppercase;" href="{{ route('location.view') }}">Location</a></li>
 
                      <li><a style="color: #AEF090; text-transform:uppercase;" href="gallery.html">Community</a></li>
                      

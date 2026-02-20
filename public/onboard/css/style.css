@@ -1329,9 +1329,10 @@ blockquote::before {
 }
 
 .contact-bg {
-	background: url(../img/contactbg.jpg);
+	background: url(../img/location.png);
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-position: center left;
 }
 
 

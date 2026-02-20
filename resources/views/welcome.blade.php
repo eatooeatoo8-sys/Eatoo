@@ -367,7 +367,7 @@
                            <!-- Bottom Info -->
                            <ul style="color:#AEF09D" class="list-unstyled contact-info">
                               <li>081 442 065 01</li>
-                              <li>Email: <a href="mailto:your@email.com">info@eatooo.com</a></li>
+                              <li>Email: <a style="color:#AEF09D" href="mailto:info@eatooo.com">info@eatooo.com</a></li>
                               <li>
                                  
                               <i 
