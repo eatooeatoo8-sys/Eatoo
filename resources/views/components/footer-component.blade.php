@@ -1,4 +1,4 @@
- <footer class="pattern text-light">
+ <footer class="pattern ">
             <div class="container">
                <div class="col-lg-4">
                   <h6>About us</h6>
@@ -10,7 +10,7 @@
                <div class="col-lg-4 text-center">
                   <!-- Small Logo -->
                   <div class="brand small">
-                     <img src="/onboard/img/remove.png" class="img-responsive center-block" alt=""/>
+                     <img src="/onboard/img/eatlogo.png" class="img-responsive center-block" alt=""/>
                   </div>
                   <!-- /brand -->
                   <p>No. 1 Ijaiye Road Ogba, Global Plaza, Opposite Mobile Filling Station.</p>
@@ -58,4 +58,4 @@
                <!-- /credits -->
             </div>
             <!-- /.container -->
-         </footer>
+</footer>

@@ -4,25 +4,6 @@
 
    <!-- Section Page -->
          <section style="background-color: #391773;" id="page" class="pages">
-            
-            <!-- <div class="jumbotron dark-overlay"  style="background-image:url('/onboard/img/scream.png')"  data-center="background-position: 50% 0px;"
-               data-top-bottom="background-position: 50% -60px;">
-               <div class="container">
-                  
-                  <div class="jumbo-heading col-md-6 col-md-offset-3" data-start="opacity: 1" data-top="opacity: 0">
-                     
-                     <h1>About Us</h1>
-                     
-                     <ul class="breadcrumb">
-                        <li><a href="#">Home</a></li>
-                        <li class="active">About Us</li>
-                     </ul>
-                  </div>
-                  
-               </div>
-               
-            </div> -->
-            
 
 
             <!-- jumbotron -->
@@ -44,12 +25,12 @@
                      data-top="opacity: 0">
 
                      <h1 style="font-size:60px; color:#fff; font-weight:700;">
-                        About Us
+                        Community
                      </h1>
 
                      <ul class="breadcrumb" style="background:transparent; justify-content:center;">
                         <li><a href="#" style="color:#fff;">Home</a></li>
-                        <li class="active" style="color:#fff;">About Us</li>
+                        <li class="active" style="color:#fff;">Community</li>
                      </ul>
 
                   </div>
@@ -75,7 +56,7 @@
                      letter-spacing:1px;
                      font-family: 'Arial Rounded MT Bold', Arial, sans-serif;
                   ">
-                     Eato Brand Philosophy
+                    EATO EVENT / EATO FOOD PARTY ( COMMUNITY BUILDING )
                   </h3>
 
                   <p style="
@@ -86,9 +67,9 @@
                      font-family: 'Arial Rounded MT Bold', Arial, sans-serif;
                      font-weight:400;
                   ">
-                     We serve high-quality food at a fair price — clean, honest, and made with care. 
-                     Rooted in Nigerian traditions and inspired by global cultures, our menu blends 
-                     familiar flavors with an international twist.
+                     A food led gathering rooted in underground culture.
+                     We open the space to local DJs from the streets, subcultures,
+                     and creative scenes turning our spot into a low key party with high energy.
                   </p>
 
                   <p style="
@@ -99,9 +80,9 @@
                      font-family: 'Arial Rounded MT Bold', Arial, sans-serif;
                      font-weight:400;
                   ">
-                     We are a young, community-driven concept built for Lagos. More than a restaurant, 
-                     we are a creative space that supports local culture, expression, and the energy 
-                     of the city around us.
+                     Grill smoke in the air. Plates passed hand to hand. Drinks flowing.
+                     Music loud enough to move bodies, not egos. People dance, eat, connect
+                     no VIPs, no filters, no rules beyond respect.
                   </p>
 
                   <p style="
@@ -111,9 +92,9 @@
                      font-family: 'Arial Rounded MT Bold', Arial, sans-serif;
                      font-weight:500;
                   ">
-                     Design, art, and aesthetics are part of our DNA — visible in our food, our space, 
-                     and our identity. We believe in good service, good energy, and good food that 
-                     brings people together.  
+                     The Food Party is about reclaiming space for the community.
+                     Supporting local sound, local faces, and real culture. Food as the connector.
+                     Music as the pulse. The night as a shared experience.  
                      <br><br>
                      <strong>Let’s grow together. But first — Eat better together.</strong>
                   </p>

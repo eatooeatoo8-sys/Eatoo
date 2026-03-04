@@ -38,7 +38,7 @@ body {
 	overflow-x: hidden;
 	font-size: 16px;
 	color: #686869;
-	background-color: #fff;
+	background-color: #0000;
 	font-weight: 400;
 	-webkit-font-smoothing: antialiased;
 	font-family: 'PT Sans', sans-serif;
@@ -151,7 +151,7 @@ a:focus {
 .text-light h5,
 .text-light h6,
 .text-light p {
-	color: #fff !important;
+	color: #0000 !important;
 }
 .bold {
 	font-weight: 700;
@@ -179,7 +179,7 @@ i {
 ============================ */
 
 #preloader {
-	background: #fff;
+	background: #0000;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -245,7 +245,7 @@ i {
 
 .navbar-custom ul.nav li a {
 	font-size: 16px;
-	color: #fff;
+	color: #0000;
 	text-align: center;
 	transition: all .2s ease-in-out;
 	font-family: 'PT Sans', sans-serif;
@@ -273,7 +273,7 @@ i {
 .nav .open>a,
 .nav .open>a:focus,
 .nav .open>a:hover {
-	color: #fff!important;
+	color: #0000!important;
 }
 
 .navbar-nav li,
@@ -303,7 +303,7 @@ i {
 .navbar ul.ul-button .btn.btn-secondary:focus,
 .navbar ul.ul-button .btn.btn-primary:hover,
 .navbar ul.ul-button .btn.btn-primary:focus {
-	color: #fff;
+	color: #0000;
 }
 
 
@@ -317,7 +317,7 @@ i {
 .navbar-toggle {
 	height: 56px;
 	font-size: 25px;
-	color: #fff;
+	color: #0000;
 	transition: all .2s ease-in-out;
 	position: relative;
 	float: right;
@@ -456,7 +456,7 @@ ul.slider-pagi {
 	top: 50%;
 	width: 1.2rem;
 	height: 1.2rem;
-	background: #fff;
+	background: #0000;
 	border-radius: 50%;
 	transition: transform 0.3s;
 	-webkit-transform: translate(-50%, -50%) scale(0);
@@ -541,7 +541,7 @@ ul.slider-pagi {
 	position: absolute;
 	bottom: 24%;
 	left: 50px;
-	color: #fff;
+	color: #0000;
 	transition: transform 0.5s 0.8s, opacity 0.5s 0.8s;
 	-webkit-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
@@ -553,14 +553,14 @@ ul.slider-pagi {
 	margin: 3rem;
 	margin-bottom: 1.5rem;
 	margin-top: 0;
-	color: #fff;
+	color: #0000;
 	line-height: 1;
 }
 
 .lead {
 	font-family: "PT sans", sans-serif;
 	font-size: 2.2rem;
-	color: #fff;
+	color: #0000;
 	margin-bottom: 0;
 }
 
@@ -672,7 +672,7 @@ ul.slider-pagi {
 
 #video-header h1,
 #video-header p {
-	color: #fff;
+	color: #0000;
 }
 
 #video-header .subtitle {
@@ -729,21 +729,21 @@ ul.slider-pagi {
 ============================ */
 
 #menu h3 {
-	color: #fff;
+	color: #0000;
 }
 
 #menu {
 	background-image: url(../img/menubg.jpg);
 	background-size: cover;
 	background-attachment: fixed;
-	color: #fff;
+	color: #0000;
 }
 
 
 /* Menu styling */
 
 .menu-body {
-	color: #fff;
+	color: #0000;
 	margin: 0 auto;
 	padding-top: 30px;
 	display: block;
@@ -768,7 +768,7 @@ ul.slider-pagi {
 /* menu Name */
 
 .menu-item-name {
-	color: #fff;
+	color: #0000;
 	text-align: left;
 	font-size: 20px;
 	font-weight: 700;
@@ -779,7 +779,7 @@ ul.slider-pagi {
 /* menu Description */
 
 .menu-item-description {
-	color: #fff;
+	color: #0000;
 	font-size: .8em;
 	line-height: 1.5em;
 	margin-top: 10px;
@@ -906,7 +906,7 @@ ul.slider-pagi {
 	display: block;
 	padding: 5px 0;
 	font-size: 18px;
-	color: #fff;
+	color: #0000;
 	transition: all 0.3s ease-in-out 0s;
 }
 
@@ -935,7 +935,7 @@ ul.slider-pagi {
 	font-size: 22px;
 	font-weight: 700;
 	letter-spacing: 1px;
-	color: #fff;
+	color: #0000;
 	margin: 0 0 5px 0;
 }
 
@@ -950,7 +950,7 @@ ul.slider-pagi {
 
 .our-team3 {
 	padding: 20px 15px 30px;
-	background: #fff;
+	background: #0000;
 	border-radius: 15px;
 	text-align: center;
 }
@@ -959,7 +959,7 @@ ul.slider-pagi {
 	display: inline-block;
 	width: 100%;
 	height: 100%;
-	background: #fff;
+	background: #0000;
 	padding: 10px;
 	margin-bottom: 25px;
 	transition: all 0.5s ease 0s;
@@ -1012,7 +1012,7 @@ ul.slider-pagi {
 }
 
 .our-team3:hover .social li a {
-	color: #fff;
+	color: #0000;
 }
 
 .our-team3 .social li a:hover {
@@ -1039,7 +1039,7 @@ ul.slider-pagi {
 
 .our-team4 .team-content {
 	padding: 20px 0;
-	color: #fff;
+	color: #0000;
 	position: relative;
 }
 
@@ -1050,7 +1050,7 @@ ul.slider-pagi {
 .our-team4 .title {
 	font-size: 25px;
 	margin: 0 0 8px 0;
-	color: #fff;
+	color: #0000;
 	text-transform: uppercase;
 }
 
@@ -1086,7 +1086,7 @@ ul.slider-pagi {
 	height: 35px;
 	line-height: 35px;
 	font-size: 16px;
-	color: #fff!important;
+	color: #0000!important;
 	margin-right: 10px;
 	position: relative;
 	z-index: 1;
@@ -1094,11 +1094,11 @@ ul.slider-pagi {
 }
 
 .our-team4 .social li i {
-	color: #fff!important;
+	color: #0000!important;
 }
 
 .our-team4 .social li a:hover {
-	color: #fff;
+	color: #0000;
 }
 
 .our-team4 .social li a:before {
@@ -1148,7 +1148,7 @@ ul.slider-pagi {
 .testimonial .description {
 	position: relative;
 	padding: 40px;
-	background: #fff;
+	background: #0000;
 	box-shadow: 4px 2px 10px #cecece;
 }
 
@@ -1156,7 +1156,7 @@ ul.slider-pagi {
 	content: "";
 	width: 20px;
 	height: 20px;
-	background: #fff;
+	background: #0000;
 	position: absolute;
 	bottom: -11px;
 	left: 22%;
@@ -1372,7 +1372,7 @@ blockquote::before {
 .sign {
 	float: left;
 	width: 100%;
-	border: 5px solid #fff;
+	border: 5px solid #0000;
 	padding: 30px;
 	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.4), 0 5px 10px rgba(0, 0, 0, 0.4);
 	border-radius: 15px;
@@ -1381,7 +1381,7 @@ blockquote::before {
 .sign p {
 	text-transform: uppercase;
 	font-weight: bold;
-	color: #fff;
+	color: #0000;
 	text-align: center;
 	text-shadow: 0 0 2px rgba(0, 0, 0, 1);
 	margin: 0 auto;
@@ -1422,7 +1422,7 @@ blockquote::before {
 
 #blog,
 #blog-pages {
-	background: #fff;
+	background: #0000;
 }
 
 #blog.well:before,
@@ -1445,14 +1445,14 @@ blockquote::before {
 .date-category {
 	position: absolute;
 	z-index: 10;
-	color: #fff;
+	color: #0000;
 	padding: 20px;
 	width: 150px;
 	border-radius: 0px;
 }
 
 .date-category p {
-	color: #fff;
+	color: #0000;
 	text-transform: uppercase;
 	font-weight: 700;
 	line-height: 16px;
@@ -1460,7 +1460,7 @@ blockquote::before {
 }
 
 .date-category i {
-	color: #fff;
+	color: #0000;
 }
 
 
@@ -1517,7 +1517,7 @@ blockquote::before {
 }
 
 .blog-single.post-main {
-	background: #fff;
+	background: #0000;
 }
 
 .main-blog .blog-single {
@@ -1573,7 +1573,7 @@ blockquote::before {
 
 .blog-tags a {
 	font-weight: 700;
-	color: #fff;
+	color: #0000;
 	font-size: 12px;
 	font-family: PT Sans;
 	text-transform: uppercase;
@@ -1590,11 +1590,11 @@ blockquote::before {
 
 .blog-tags a:hover,
 .blog-tags a:focus {
-	color: #fff;
+	color: #0000;
 }
 
 .blog-tags a::before {
-	background: #fff;
+	background: #0000;
 	border-radius: 5px;
 	box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
 	content: '';
@@ -1669,13 +1669,13 @@ footer .brand {
 }
 
 .credits {
-	color: #fff;
+	color: #0000;
 	padding-top: 50px;
 	font-size: 13px;
 }
 
 .credits a:hover {
-	color: #fff;
+	color: #0000;
 }
 
 
@@ -1709,7 +1709,7 @@ footer .brand {
 }
 
 .back-to-top i {
-	color: #fff;
+	color: #0000;
 	font-size: 32px;
 	line-height: 38px;
 	text-align: center;
@@ -1809,7 +1809,7 @@ footer .brand {
 
 .bootstrap-datetimepicker-widget.dropdown-menu {
 	border-radius: 0px;
-	background: #fff;
+	background: #0000;
 }
 
 .bootstrap-datetimepicker-widget table thead tr:first-child th {
@@ -1886,7 +1886,7 @@ section.no-padding-bottom {
 }
 
 .section-heading h2 {
-	color: #fff;
+	color: #0000;
 	margin-bottom: 0px;
 }
 
@@ -1990,7 +1990,7 @@ section.no-padding-bottom {
 
 .img-photo {
 	box-shadow: 0 3px 6px rgba(0, 0, 0, .25);
-	border: 8px solid #fff;
+	border: 8px solid #0000;
 }
 
 .img-opacity:hover {
@@ -2037,7 +2037,7 @@ section.no-padding-bottom {
 	clear: both;
 	font-weight: 400;
 	line-height: 1.42857143;
-	color: #fff;
+	color: #0000;
 	white-space: nowrap;
 	border-radius: 0px;
 	transition: all .2s ease-in-out;
@@ -2047,13 +2047,13 @@ section.no-padding-bottom {
 	min-width: 180px;
 	font-size: 16px;
 	border: 0px;
-	color: #fff;
+	color: #0000;
 	padding: 0px;
 }
 
 .dropdown-menu>li>a:focus,
 .dropdown-menu>li>a:hover {
-	color: #fff;
+	color: #0000;
 	transition: all .2s ease-in-out;
 }
 
@@ -2073,14 +2073,14 @@ section.no-padding-bottom {
 	margin: 0 1px;
 	border: 0;
 	padding: 5px 12px;
-	color: #fff;
+	color: #0000;
 	border-radius: 0%;
 	transition: all .2s ease-in-out;
 }
 
 .pagination>li>a:hover,
 .pagination>li>a:focus {
-	color: #fff;
+	color: #0000;
 }
 
 .pagination>li:last-child>a,
@@ -2102,7 +2102,7 @@ section.no-padding-bottom {
 }
 
 .alert.alert-info {
-	color: #fff;
+	color: #0000;
 }
 
 
@@ -2124,7 +2124,7 @@ section.no-padding-bottom {
 
 ul.breadcrumb {
 	padding: 5px 20px;
-	background: #fff;
+	background: #0000;
     border-radius: 20px;
 	line-height: 18px!important;
 	text-align: center;
@@ -2148,7 +2148,7 @@ ul.breadcrumb {
 	padding: .2em .6em .3em;
 	font-size: 16px;
 	line-height: 2;
-	color: #fff;
+	color: #0000;
 	border-radius: 0px;
 }
 
@@ -2202,14 +2202,14 @@ label {
 	display: inline-block;
 	padding: 10px 24px;
 	font-size: 18px;
-	color: #fff;
+	color: #0000;
 	font-family: 'PT Sans', sans-serif;
 	border-radius: 0px;
 	transition: all .2s ease-in-out;
 }
 
 .pager li>a:hover {
-	color: #fff;
+	color: #0000;
 }
 
 
@@ -2242,7 +2242,7 @@ label {
 	border: 0;
 	letter-spacing: 1px;
 	padding: 15px 35px;
-	color: #fff;
+	color: #0000;
 	font-size: 22px;
 	transition: all .2s ease-in-out;
 }
@@ -2250,7 +2250,7 @@ label {
 .nav.nav-tabs>li>a:hover,
 .nav.nav-tabs>li.active>a,
 .nav.nav-tabs>li.active>a:hover {
-	color: #fff;
+	color: #000000;
 }
 
 
@@ -2274,7 +2274,7 @@ label {
 	display: block;
 	text-transform: uppercase;
 	padding: 10px;
-	color: #fff!important;
+	color: #0000!important;
 	font-weight: 700;
 	letter-spacing: 1px;
 	font-family: 'PT Sans', sans-serif;
@@ -2349,7 +2349,7 @@ ul.custom li:before {
 .navbar ul.ul-button .btn.btn-secondary,
 .navbar ul.ul-button .btn.btn-primary {
 	border: none;
-	color: #ffffff;
+	color: #0000;
 	cursor: pointer;
 	border-radius: 25px;
 	display: inline-block;
@@ -2374,7 +2374,7 @@ ul.custom li:before {
 .navbar ul.ul-button .btn.btn-primary:hover,
 .btn .btn-default:hover,
 .btn .btn-primary:hover {
-	color: #ffffff;
+	color: #0000;
 	background-position: -50%;
 }
 
@@ -2390,7 +2390,7 @@ ul.custom li:before {
 }
 
 .btn .fa {
-	color: #fff;
+	color: #0000;
 }
 
 .btn-default:active:hover {
@@ -2441,7 +2441,7 @@ select.form-control {
 .input-group-btn span,
 .input-group-addon span,
 .btn span {
-	color: #fff;
+	color: #0000;
 }
 
 .form-control.form-control.input-lg {
@@ -2485,12 +2485,12 @@ textarea.size-fix {
 
 .social-media a i:hover {
 	transform: scale(1.2);
-	background-color: #fff;
+	background-color: #0000;
 }
 
 .social-media a i {
 	font-weight: normal;
-	color: #fff;
+	color: #0000;
 	transition: all .3s ease-in-out;
 	margin: 3px;
 	padding: 10px;
@@ -2512,7 +2512,7 @@ textarea.size-fix {
 	border: 0px;
 	background: none;
 	padding: 0;
-	color: #fff;
+	color: #0000;
 	border-radius: 50%;
 	width: 35px;
 	height: 35px;
@@ -2589,7 +2589,7 @@ blockquote span {
 .nav-pills>li>a:hover,
 .nav-pills>li>a,
 .nav-pills .nav>li>a:hover {
-	color: #fff;
+	color: #000000;
 }
 
 
@@ -2632,7 +2632,7 @@ blockquote span {
 }
 
 .table>thead>tr>th {
-	color: #fff;
+	color: #0000;
 }
 
 
@@ -2669,7 +2669,7 @@ blockquote span {
 
 .well {
 	border: 3px double;
-	background: #fff;
+	background: #0000;
 	border-radius: 0px;
 	padding: 60px;
 }
@@ -2723,7 +2723,7 @@ blockquote span {
 	text-transform:uppercase;
 	margin-bottom: 10px;
 	letter-spacing:1.5px;
-	color: #fff;
+	color: #0000;
 	line-height: 1.2;
 }
 .jumbotron .h1, .jumbotron h1 {
@@ -2798,14 +2798,14 @@ hr {
 
 a.list-group-item,
 button.list-group-item {
-	color: #fff;
+	color: #0000;
 }
 
 a.list-group-item:focus,
 a.list-group-item:hover,
 button.list-group-item:focus,
 button.list-group-item:hover {
-	color: #fff;
+	color: #0000;
 	text-decoration: none;
 }
 
@@ -2922,7 +2922,7 @@ button.list-group-item:hover {
 		display: block;
 	}
 	.navbar-toggle i {
-		color: #fff;
+		color: #0000;
 	}
 	.navbar-collapse.collapse {
 		display: none!important;
@@ -3271,7 +3271,7 @@ button.list-group-item:hover {
 	}
 	.date-category {
 		position: absolute;
-		color: #fff;
+		color: #0000;
 		min-width: 0px;
 		padding: 20px;
 	}

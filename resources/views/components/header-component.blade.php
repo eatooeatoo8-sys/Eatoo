@@ -7,7 +7,7 @@
                   </button>
                   <!-- Logo -->
                   <div class="navbar-brand page-scroll">
-                     <a href="#page-top"><img src="/onboard/img/remove.png" class="img-responsive" alt=""></a>
+                     <a href="#page-top"><img src="/onboard/img/eatlogo.png" class="img-responsive" alt=""></a>
                   </div>
                </div>
                <!-- /.navbar-header -->
@@ -18,12 +18,11 @@
                      <li><a style="color: #AEF090; text-transform:uppercase;" href="{{ route('about.view') }}">About </a></li>
                      <li>
                         <a style="color: #AEF090; text-transform:uppercase;"  href="{{ route('menu.view') }}">Menu<b></b></a>
-                        
                      </li>
-                     <li><a style="color: #AEF090; text-transform:uppercase;" href="#">Catering</a></li>
+                     <!-- <li><a style="color: #AEF090; text-transform:uppercase;" href="#">Catering</a></li> -->
                      <li><a style="color: #AEF090; text-transform:uppercase;" href="{{ route('location.view') }}">Location</a></li>
 
-                     <li><a style="color: #AEF090; text-transform:uppercase;" href="gallery.html">Community</a></li>
+                     <li><a style="color: #AEF090; text-transform:uppercase;" href="{{ route('community.view') }}">Community</a></li>
                      
                      <li style="list-style:none; padding:0; margin:8px 4px;">
                         <ul class="ul-button" style="padding:0; margin:0;">
@@ -83,7 +82,7 @@
                            </li>
                         </ul>
                      </li>
-                     <li style="list-style:none; padding:0; margin:8px 4px;">
+                     <!-- <li style="list-style:none; padding:0; margin:8px 4px;">
                         <ul class="ul-button" style="padding:0; margin:0;">
                            <li style="list-style:none; padding:0; margin:0;">
                                  <a class="btn btn-secondary navbar-btn"
@@ -108,7 +107,7 @@
 
                            </li>
                         </ul>
-                     </li>
+                     </li> -->
                   </ul> 
                </div>
                <!-- /.navbar-collapse -->

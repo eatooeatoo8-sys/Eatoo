@@ -51,12 +51,12 @@
 
                             <button onclick="sendCartToWhatsApp()" 
                                     style="padding:10px 18px; background:#391773; color:#AEF09D; border:none; border-radius:6px; cursor:pointer;">
-                                📤 Buy via WhatsApp
+                                <i style="color:#AEF09D;" class="fab fa-whatsapp"></i> Buy via WhatsApp
                             </button>
 
                             <button onclick="clearCart()" 
                                     style="padding:10px 18px; background:#AEF09D; color:#391773; border:none; border-radius:6px; cursor:pointer;">
-                                🗑 Clear Cart
+                                 <i style="color:#391773;" class="fa fa-trash"></i>  Clear Cart
                             </button>
 
                         </div>

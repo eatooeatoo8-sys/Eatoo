@@ -35,5 +35,6 @@ Route::view('/menu', 'pages/menu')->name('menu.view');
 Route::view('/cart', 'pages/cart')->name('menu.cart');
 Route::view('/about', 'pages/about')->name('about.view');
 Route::view('/location', 'pages/location')->name('location.view');
+Route::view('/community', 'pages/com')->name('community.view');
 
 require __DIR__.'/auth.php';
