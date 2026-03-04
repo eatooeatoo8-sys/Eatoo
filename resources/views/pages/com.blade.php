@@ -24,13 +24,13 @@
                      data-start="opacity: 1" 
                      data-top="opacity: 0">
 
-                     <h1 style="font-size:60px; color:#fff; font-weight:700;">
+                     <h1 style="font-size:60px; color:#fff; font-weight:700; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">
                         Community
                      </h1>
 
                      <ul class="breadcrumb" style="background:transparent; justify-content:center;">
-                        <li><a href="#" style="color:#fff;">Home</a></li>
-                        <li class="active" style="color:#fff;">Community</li>
+                        <li><a href="#" style="color:#fff;font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">Home</a></li>
+                        <li class="active" style="color:#fff;font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">Community</li>
                      </ul>
 
                   </div>
@@ -96,7 +96,7 @@
                      Supporting local sound, local faces, and real culture. Food as the connector.
                      Music as the pulse. The night as a shared experience.  
                      <br><br>
-                     <strong>Let’s grow together. But first — Eat better together.</strong>
+                     <strong style="font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">Let’s grow together. But first — Eat better together.</strong>
                   </p>
 
                </div>

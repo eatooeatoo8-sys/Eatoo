@@ -22,13 +22,14 @@
                      data-start="opacity: 1" 
                      data-top="opacity: 0">
 
-                     <h1 style="font-size:60px; color:#fff; font-weight:700;">
+                     <h1 style="font-size:60px; color:#fff; font-weight:700;
+                     font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">
                         Location
                      </h1>
 
                      <ul class="breadcrumb" style="background:transparent; justify-content:center;">
-                        <li><a href="#" style="color:#fff;">Home</a></li>
-                        <li class="active" style="color:#fff;">Location</li>
+                        <li><a href="#" style="color:#fff;font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">Home</a></li>
+                        <li class="active" style="color:#fff;font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">Location</li>
                      </ul>
 
                   </div>
@@ -81,9 +82,9 @@
 
                         <div class="">
                            <div class="text-center">
-                              <h5 style="color:#AEF09D">Contact us today</h5>
+                              <h5 style="color:#AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">Contact us today</h5>
                               <!-- Bottom Info -->
-                              <ul style="color:#AEF09D" class="list-unstyled contact-info">
+                              <ul style="color:#AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;" class="list-unstyled contact-info">
                                  <li>081 442 065 01</li>
                                  <li>Email: <a style="color:#AEF09D" href="mailto:info@eatooo.com">info@eatooo.com</a></li>
                                  <li>

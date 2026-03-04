@@ -14,7 +14,7 @@
                <!-- Collect the nav links, forms, and other content for toggling -->
                <div class="collapse navbar-collapse" id="navbar-brand">
                   <ul  class="nav navbar-nav page-scroll navbar-right" >
-                     <li><a style="color: #AEF090; text-transform:uppercase;" href="{{ route('home') }}">Home</a></li>
+                     <li ><a style="color: #AEF090; text-transform:uppercase;" href="{{ route('home') }}">Home</a></li>
                      <li><a style="color: #AEF090; text-transform:uppercase;" href="{{ route('about.view') }}">About </a></li>
                      <li>
                         <a style="color: #AEF090; text-transform:uppercase;"  href="{{ route('menu.view') }}">Menu<b></b></a>

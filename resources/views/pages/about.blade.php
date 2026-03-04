@@ -43,13 +43,13 @@
                      data-start="opacity: 1" 
                      data-top="opacity: 0">
 
-                     <h1 style="font-size:60px; color:#fff; font-weight:700;">
+                     <h1 style="font-size:60px; color:#fff; font-weight:700; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">
                         About Us
                      </h1>
 
                      <ul class="breadcrumb" style="background:transparent; justify-content:center;">
-                        <li><a href="#" style="color:#fff;">Home</a></li>
-                        <li class="active" style="color:#fff;">About Us</li>
+                        <li><a href="#" style="color:#fff; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">Home</a></li>
+                        <li class="active" style="color:#fff; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">About Us</li>
                      </ul>
 
                   </div>
@@ -115,7 +115,7 @@
                      and our identity. We believe in good service, good energy, and good food that 
                      brings people together.  
                      <br><br>
-                     <strong>Let’s grow together. But first — Eat better together.</strong>
+                     <strong style="font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">Let’s grow together. But first — Eat better together.</strong>
                   </p>
 
                </div>

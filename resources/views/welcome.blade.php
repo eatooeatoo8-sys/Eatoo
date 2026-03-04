@@ -17,7 +17,7 @@
                      <div class="slide__content">
                        
                         <div class="slide__text">
-                           <h1 style="color:#AEF09D;" class="slide__text-heading">Welcome to Eatooo!</h1>
+                           <h1 style="color:#AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;" class="slide__text-heading">Welcome to Eatooo!</h1>
                            <div class="hidden-sm hidden-xs">
                               <p class="lead">We are the best in food business.</p>
                               
@@ -31,7 +31,7 @@
                      <div class="slide__content">
                         
                         <div class="slide__text">
-                           <h1 style="color:#AEF09D;" class="slide__text-heading">Welcome to Eatooo!</h1>
+                           <h1 style="color:#AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;" class="slide__text-heading">Welcome to Eatooo!</h1>
 
                            <div class="hidden-sm hidden-xs">
                               <p class="lead">We are the best in food business.</p>
@@ -48,7 +48,7 @@
                      <div class="slide__content">
                       
                         <div class="slide__text">
-                           <h1 style="color:#AEF09D;" class="slide__text-heading">Welcome to Eatooo!</h1>
+                           <h1 style="color:#AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;" class="slide__text-heading">Welcome to Eatooo!</h1>
 
                            <div class="hidden-sm hidden-xs">
                               <p class="lead">We are the best in food business.</p>
@@ -65,7 +65,7 @@
                      <div class="slide__content">
                         
                         <div class="slide__text">
-                           <h1 style="color:#AEF09D;" class="slide__text-heading">Welcome to Eatooo!</h1>
+                           <h1 style="color:#AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;" class="slide__text-heading">Welcome to Eatooo!</h1>
 
                            <div class="hidden-sm hidden-xs">
                               <p class="lead">We are the best in food business.</p>

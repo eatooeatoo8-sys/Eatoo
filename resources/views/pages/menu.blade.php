@@ -22,13 +22,13 @@
                      data-start="opacity: 1" 
                      data-top="opacity: 0">
 
-                     <h1 style="font-size:60px; color:#fff; font-weight:700;">
+                     <h1 style="font-size:60px; color:#fff; font-weight:700; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">
                         Menu
                      </h1>
 
                      <ul class="breadcrumb" style="background:transparent; justify-content:center;">
-                        <li><a href="#" style="color:#fff;">Home</a></li>
-                        <li class="active" style="color:#fff;">Menu</li>
+                        <li><a href="#" style="color:#fff; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">Home</a></li>
+                        <li class="active" style="color:#fff; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">Menu</li>
                      </ul>
 
                   </div>
@@ -38,11 +38,11 @@
             <!-- /jumbotron -->
             <!-- Page -->
             <div id="page-container" class="menu-page no-bg-small container">
-               <div class="col-md-12">
+               <div style="font-family: 'Arial Rounded MT Bold', Arial, sans-serif;" class="col-md-12">
 
                   <!-- nav pills -->
                   <div class="nav-center-responsive">
-                     <ul class="nav nav-pills col-md-3" id="prices-nav">
+                     <ul style="font-family: 'Arial Rounded MT Bold', Arial, sans-serif;" class="nav nav-pills col-md-3" id="prices-nav">
                         <li class="active"><a style="color:#AEF09D;"  href="#tab_a" data-toggle="pill">Main Meals</a></li>
                         <li><a style="color:#AEF09D;" href="#tab_b" data-toggle="pill">Sides/Extras</a></li>
                         <li><a style="color:#AEF09D;" href="#tab_c" data-toggle="pill">Drinks</a></li>
@@ -56,7 +56,7 @@
                      <div class="tab-pane fade in active" id="tab_a">
                         <div class="row">
                            <!-- Menu: starters -->
-                           <h3 style="color:#AEF09D;" class="text-center">Main Meals</h3>
+                           <h3 style="color:#AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;" class="text-center">Main Meals</h3>
                               
 
                                <div class="dishes col-lg-3 col-sm-6 col-md-6">
@@ -68,7 +68,7 @@
                                        </a>		
                                        
                                        <div class="text-center" style="margin-top:10px;">
-                                          <h6 style="color: #AEF09D; ">Fried Rice & Beef</h6>
+                                          <h6 style="color: #AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif; ">Fried Rice & Beef</h6>
                                        </div>
                                     </div>
                                  </div>
@@ -83,7 +83,7 @@
                                        </a>		
                                        
                                        <div class="text-center" style="margin-top:10px;">
-                                          <h6 style="color: #AEF09D; ">Fried Rice & Chicken</h6>
+                                          <h6 style="color: #AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif; ">Fried Rice & Chicken</h6>
                                        </div>
                                     </div>
                                  </div>
@@ -98,7 +98,7 @@
                                        </a>		
                                        
                                        <div class="text-center" style="margin-top:10px;">
-                                          <h6 style="color: #AEF09D; ">Jollof & Beef</h6>
+                                          <h6 style="color: #AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">Jollof & Beef</h6>
                                        </div>
                                     </div>
                                  </div>
@@ -113,7 +113,7 @@
                                        </a>		
                                        
                                        <div class="text-center" style="margin-top:10px;">
-                                          <h6 style="color: #AEF09D; ">Jollof Rice & Chicken</h6>
+                                          <h6 style="color: #AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">Jollof Rice & Chicken</h6>
                                        </div>
                                     </div>
                                  </div>
@@ -130,7 +130,7 @@
                      <div class="tab-pane fade" id="tab_b">
                         <div class="row">
                            <!-- Menu: main courses-->
-                           <h3 style="color: #AEF09D;" class="text-center">Sides</h3>
+                           <h3 style="color: #AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;" class="text-center">Sides</h3>
                            			  
                                <div class="dishes col-lg-3 col-sm-6 col-md-6">
                                  <div class="isotope-item">
@@ -141,7 +141,7 @@
                                        </a>		
                                        
                                        <div class="text-center" style="margin-top:10px;">
-                                          <h6 style="color: #AEF09D; ">Coleslaw Salad</h6>
+                                          <h6 style="color: #AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">Coleslaw Salad</h6>
                                        </div>
                                     </div>
                                  </div>
@@ -156,7 +156,7 @@
                                        </a>		
                                        
                                        <div class="text-center" style="margin-top:10px;">
-                                          <h6 style="color: #AEF09D; ">Fried Plantain</h6>
+                                          <h6 style="color: #AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">Fried Plantain</h6>
                                        </div>
                                     </div>
                                  </div>
@@ -171,7 +171,7 @@
                                        </a>		
                                        
                                        <div class="text-center" style="margin-top:10px;">
-                                          <h6 style="color: #AEF09D; ">Puff Puff</h6>
+                                          <h6 style="color: #AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">Puff Puff</h6>
                                        </div>
                                     </div>
                                  </div>
@@ -184,7 +184,7 @@
                      <div class="tab-pane fade" id="tab_c">
                         <div class="row">
                            <!-- Menu: Drinks-->
-                           <h3 style="color: #AEF09D;" class="text-center">Drinks</h3>
+                           <h3 style="color: #AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;" class="text-center">Drinks</h3>
                            
                              <div class="dishes col-lg-3 col-sm-6 col-md-6">
                                  <div class="isotope-item">
@@ -195,7 +195,7 @@
                                        </a>		
                                        
                                        <div class="text-center" style="margin-top:10px;">
-                                          <h6 style="color: #AEF09D; ">Coke</h6>
+                                          <h6 style="color: #AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif; ">Coke</h6>
                                        </div>
                                     </div>
                                  </div>
@@ -210,7 +210,7 @@
                                        </a>		
                                        
                                        <div class="text-center" style="margin-top:10px;">
-                                          <h6 style="color: #AEF09D; ">Fanta</h6>
+                                          <h6 style="color: #AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">Fanta</h6>
                                        </div>
                                     </div>
                                  </div>
@@ -225,7 +225,7 @@
                                        </a>		
                                        
                                        <div class="text-center" style="margin-top:10px;">
-                                          <h6 style="color: #AEF09D; ">Water</h6>
+                                          <h6 style="color: #AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">Water</h6>
                                        </div>
                                     </div>
                                  </div>
@@ -240,7 +240,7 @@
                                        </a>		
                                        
                                        <div class="text-center" style="margin-top:10px;">
-                                          <h6 style="color: #AEF09D; ">Zobo</h6>
+                                          <h6 style="color: #AEF09D; font-family: 'Arial Rounded MT Bold', Arial, sans-serif;">Zobo</h6>
                                        </div>
                                     </div>
                                  </div>
@@ -255,7 +255,8 @@
                            href="https://wa.me/2349031876166?text=Hello,%20I%20want%20to%20order%20a%20product."
                            target="_blank"
                            class="btn btn-success"
-                           style="background-color: #AEF09D; color: #391773; font-weight: bold; padding: 10px 30px; text-decoration: none;"
+                           style="font-family: 'Arial Rounded MT Bold', Arial, sans-serif;
+                           background-color: #AEF09D; color: #391773; font-weight: bold; padding: 10px 30px; text-decoration: none;"
                         >
                            Buy Now
                         </a>
